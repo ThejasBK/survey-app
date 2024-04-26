@@ -1,0 +1,28 @@
+.nav-button {
+  margin-left: auto;
+  margin-right: 0;
+}
+.nav-input {
+  color: #ffffff;
+  background-color: #ff9814;
+}
+
+.nav-input:hover {
+  background-color: #f28a05;
+}
+
+#sv-nav-next {
+  margin-left: auto;
+  margin-right: 0;
+}
+
+.sd-imagepicker__image {
+  object-fit: fill;
+  height: 220px;
+  width: 240px;
+
+}
+
+.sd-imagepicker__text{
+  visibility: hidden;
+}
